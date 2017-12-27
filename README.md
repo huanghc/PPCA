@@ -6,34 +6,34 @@ In this project I realize the calculation part of the algorithmic language "Sche
 
 Specifically, this job requires the following:
 
-Equal judgment:	equal?, string=?, string-ci=?, char=?, char-ci=?
+<strong>Equal judgment</strong>:	equal?, string=?, string-ci=?, char=?, char-ci=?
 
-Type conversion:	number->string, string->number, char->integer, integer->char
+<strong>Type conversion</strong>:	number->string, string->number, char->integer, integer->char
 
-Computation:	See below
+<strong>Computation</strong>:	See below
 
-String operation:	string?, make-string, string, string-length, string-ref,   string<? string-ci<?, string<=? string-ci<=?, substring, string-append, string-copy
+<strong>String operation</strong>:	string?, make-string, string, string-length, string-ref,   string<? string-ci<?, string<=? string-ci<=?, substring, string-append, string-copy
 Character operation:	char?, char<? char-ci<?, char<=? char-ci<=? char-alphabetic?, char-numeric?, char-whitespace?, char-upper-case?, char-lower-case?, char->integer, integer->char, char-upcase, char-downcase
 
 
-Basic arithmetic operations:	+, -, *, /, abs, quotient, remainder, modulo, gcd, lcm, expt, sqrt
+<strong>Basic arithmetic operations</strong>:	+, -, *, /, abs, quotient, remainder, modulo, gcd, lcm, expt, sqrt
 
-Fractional calculation:	numerator, denominator
+<strong>Fractional calculation</strong>:	numerator, denominator
 
-Approximation:	floor, ceiling, truncate, round
+<strong>Approximation</strong>:	floor, ceiling, truncate, round
 
-Accuracy:	inexact->exact, exact->inexact, exact?, inexact?
+<strong>Accuracy</strong>:	inexact->exact, exact->inexact, exact?, inexact?
 
-Judgments：	<, <=, >, >=
+<strong>Judgments</strong>：	<, <=, >, >=
 
-Judgments：	zero?, negative?, positive? odd? even?
+<strong>Judgments</strong>：	zero?, negative?, positive? odd? even?
 
-Min Max: 	max, min
+<strong>Min Max</strong>: 	max, min
 
-Trigonometric function:	sin, cos, tan, asin, acos, atan
+<strong>Trigonometric function</strong>:	sin, cos, tan, asin, acos, atan
 
-Power and logarithm:	exp, log
+<strong>Power and logarithm</strong>:	exp, log
 
-Complex operations:	make-rectangular, make-polar, real-part, imag-part, magnitude, angle
+<strong>Complex operations</strong>:	make-rectangular, make-polar, real-part, imag-part, magnitude, angle
 
-Type judgment:	integer?, rational?, real?, complex?, number?
+<strong>Type judgment</strong>:	integer?, rational?, real?, complex?, number?
