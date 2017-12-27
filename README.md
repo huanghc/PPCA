@@ -1,8 +1,7 @@
-# PPCA
-a class in summer: scheme calculator
+# PPCA：scheme calculator
 
 This is an individual project for CS119 Principles and Practice of Computer Algorithms in the second semester. 
-In this project I realize the calculation part of the algorithmic language "Scheme", which is a dialect of the Lisp programming language invented at the MIT AI Lab. 
+In this project I realize <strong>the calculation part of the algorithmic language "Scheme"</strong>, which is a dialect of the Lisp programming language invented at the MIT AI Lab. 
 
 Specifically, this job requires the following:
 
