@@ -15,7 +15,7 @@ Specifically, this job requires the following:
 <strong>String operation</strong>:	string?, make-string, string, string-length, string-ref,   string<? string-ci<?, string<=? string-ci<=?, substring, string-append, string-copy
 Character operation:	char?, char<? char-ci<?, char<=? char-ci<=? char-alphabetic?, char-numeric?, char-whitespace?, char-upper-case?, char-lower-case?, char->integer, integer->char, char-upcase, char-downcase
 
-
+----------------------  ----------------------  ----------------------  
 <strong>Basic arithmetic operations</strong>:	+, -, *, /, abs, quotient, remainder, modulo, gcd, lcm, expt, sqrt
 
 <strong>Fractional calculation</strong>:	numerator, denominator
